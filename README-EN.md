@@ -33,7 +33,7 @@ An identity authentication access control system based on NFC technology. Levera
     npm run build
     ```
 
-## Project Preview
+## Project Previews
 
 1. Login Page
 
